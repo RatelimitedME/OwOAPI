@@ -1,7 +1,13 @@
-# OwO.Whats-Th.is?
-A Pomf-compatible Node.js image sharing platform running on AWS' infrastructure.
-Uses S3 and DynamoDB in order to reduce costs and provide a highly-available
-service.
+# RATELIMITED.ME
+A Pomf-compatible Node.js image sharing platform running on any scale of a machine (VPS and Dedicated, Shared hosting is not supported.)
+
+This is based on [OwOAPI v1](https://github.com/whats-this/api) and was documented and made easier to selfhost by AsaPlaysMC (Azzeh)
+
+This is compatible with the [Minio](https://minio.io) S3 API
+
+# Installing
+
+Please refer to our [Wiki](http://169.254.89.122:3000/AsaPlaysMC/API/wiki) for information on installing the API
 
 # Contributing
 1. Fork & clone
