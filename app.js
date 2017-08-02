@@ -13,6 +13,7 @@ for (const env of [
   //'S3_LINKS_ACCESS_KEY_ID',
   //'S3_LINKS_SECRET_KEY',
   //'S3_LINKS_BUCKET',
+  //'S3_LINKS_ENDPOINT_URL',
   'PORT'
 ]) {
   if (!process.env.hasOwnProperty(env)) {
