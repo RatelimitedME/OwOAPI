@@ -7,7 +7,7 @@ This is compatible with the [Minio](https://minio.io) S3 API
 
 # Installing
 
-Please refer to our [Wiki](http://169.254.89.122:3000/AsaPlaysMC/API/wiki) for information on installing the API
+Please refer to our [Wiki](https://github.com/RatelimitedME/API/wiki) for information on installing the API
 
 # Contributing
 1. Fork & clone
